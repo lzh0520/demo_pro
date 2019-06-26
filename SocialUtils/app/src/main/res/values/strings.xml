@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">社会工具类</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">发现</string>
+    <string name="title_notifications">我的</string>
+    <string name="text_weather">天气</string>
+    <string name="text_rain">雨</string>
+    <string name="text_rain_l">雷阵雨</string>
+    <string name="text_snow">雪</string>
+    <string name="text_cloudy">多云</string>
+    <string name="text_yin">阴</string>
+    <string name="text_mai">霾</string>
+    <string name="pickerview_cancel">取消</string>
+    <string name="pickerview_submit">确定</string>
+    <string name="pickerview_year">年</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_seconds">秒</string>
+    <string name="text_video">视频</string>
+    <string name="replay">重播</string>
+    <string name="tips_not_wifi">您目前正在使用移动网络，播放器将使用流量播放。</string>
+    <string name="tips_not_wifi_confirm">Resume</string>
+    <string name="tips_not_wifi_cancel">停止播放</string>
+    <string name="no_url">视频暂时无法播放</string>
+    <string name="text_food">美食</string>
+    <string name="text_ali_video">视频播放</string>
+    <string name="food_author">by&#160;&#160;</string>
+    <string name="food_col">&#160;&#160;收藏</string>
+    <string name="food_bro">&#160;&#160;浏览</string>
+    <string name="food_bro_more">查看更多</string>
+    <string name="food_ingredient_more">点击查看更多</string>
+    <string name="food_main">主料</string>
+    <string name="food_second">辅料</string>
+    <string name="food_cp">成品图</string>
+
+</resources>

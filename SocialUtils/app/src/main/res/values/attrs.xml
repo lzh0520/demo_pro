@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FloatLabeledEditText">
+        <attr name="fletTextAppearance" format="reference"/>
+        <attr name="fletPadding" format="reference|dimension"/>
+        <attr name="fletPaddingLeft" format="reference|dimension"/>
+        <attr name="fletPaddingTop" format="reference|dimension"/>
+        <attr name="fletPaddingRight" format="reference|dimension"/>
+        <attr name="fletPaddingBottom" format="reference|dimension"/>
+        <attr name="fletBackground" format="reference|color"/>
+    </declare-styleable>
+    <declare-styleable name="androidWheelView">
+        <attr name="awv_textsize" format="integer"/>
+        <attr name="awv_lineSpace" format="float"/>
+        <attr name="awv_centerTextColor" format="integer"/>
+        <attr name="awv_outerTextColor" format="integer"/>
+        <attr name="awv_dividerTextColor" format="integer"/>
+        <attr name="awv_itemsVisibleCount" format="integer"/>
+        <attr name="awv_isLoop" format="boolean"/>
+        <attr name="awv_initialPosition" format="integer"/>
+        <attr name="awv_scaleX" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="pickerview">
+        <attr name="pickerview_gravity">
+            <enum name="center" value="17"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="5"/>
+        </attr>
+        <attr name="pickerview_textSize" format="dimension"/>
+        <attr name="pickerview_textColorOut" format="color"/>
+        <attr name="pickerview_textColorCenter" format="color"/>
+        <attr name="pickerview_dividerColor" format="color"/>
+        <attr name="pickerview_lineSpacingMultiplier" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="ObservableScrollView">
+        <attr name="zoomId" format="reference|integer"/>
+        <attr name="maxZoom" format="dimension"/>
+    </declare-styleable>
+    <!--圆形进度条-->
+    <declare-styleable name="ProgressBar">
+        <attr name="innerBackground" format="color"/>
+        <attr name="outerBackground" format="color"/>
+        <attr name="roundWidth" format="dimension"/>
+        <attr name="progressTextSize" format="dimension"/>
+        <attr name="progressTextColor" format="color"/>
+    </declare-styleable>
+
+</resources>
