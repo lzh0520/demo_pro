@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true">
+
+    <include layout="@layout/ehuilib_common_topbar" />
+
+    <TextView
+        android:id="@+id/text_summary_voice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@mipmap/blue_ben_bg"
+        android:drawableLeft="@mipmap/ehuilib_right_menu_scan"
+        android:gravity="center"
+        android:paddingLeft="6dip"
+        android:text="@string/text_jiyao_audio"
+        android:textColor="@color/white"
+        android:textSize="@dimen/ehuilib_text_size_16" />
+
+    <TextView
+        android:id="@+id/text_summary_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/text_summary_voice"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:background="@mipmap/blue_ben_bg"
+        android:drawableLeft="@mipmap/ehuilib_right_menu_create"
+        android:gravity="center"
+        android:paddingLeft="8dip"
+        android:text="@string/text_jiyao_text"
+        android:textColor="@color/white"
+        android:textSize="@dimen/ehuilib_text_size_16" />
+
+
+</RelativeLayout>

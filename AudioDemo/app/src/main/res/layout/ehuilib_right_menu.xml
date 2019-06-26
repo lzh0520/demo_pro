@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@mipmap/ehuilib_right_menu_bg" >
+
+    <ListView
+        android:id="@+id/right_menu_list"
+        style="@style/ehuilib_common_popupwindow_listView_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:listSelector="@color/white"
+        android:scrollbars="none" />
+
+</RelativeLayout>

@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 标题栏高度 -->
+    <dimen name="ehuilib_topbar_height">55dip</dimen>
+    <dimen name="ehuilib_topbar_height1">40dip</dimen>
+    <dimen name="file_item_height">50dp</dimen>
+    <!-- 字体大小 -->
+    <dimen name="ehuilib_text_size_10">10sp</dimen>
+    <dimen name="ehuilib_text_size_11">11sp</dimen>
+    <dimen name="ehuilib_text_size_12">12sp</dimen>
+    <dimen name="ehuilib_text_size_13">13sp</dimen>
+    <dimen name="ehuilib_text_size_14">14sp</dimen>
+    <dimen name="ehuilib_text_size_16">16sp</dimen>
+    <dimen name="ehuilib_text_size_18">18sp</dimen>
+    <dimen name="ehuilib_text_size_20">20sp</dimen>
+    <dimen name="ehuilib_text_size_22">22sp</dimen>
+    <dimen name="ehuilib_bottom_padding">2dip</dimen>
+    <dimen name="ehuilib_top_padding">10dip</dimen>
+    <dimen name="event_maxwidth">80dip</dimen>
+    <dimen name="local_cell_pandding">5dp</dimen>
+    <dimen name="event_detail_title_margin">15dp</dimen>
+
+</resources>
